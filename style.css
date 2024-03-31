@@ -1,0 +1,21 @@
+img {
+  display: block;
+  margin: auto;
+}
+
+#game {
+  position: relative;
+  margin:auto;
+  width: 100px;
+}
+
+#bird {
+}
+
+#background {
+
+}
+
+#base {
+  position: absolute;
+}
